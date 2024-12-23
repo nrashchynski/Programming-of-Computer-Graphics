@@ -8,3 +8,5 @@
 
 # Lab 4 (C# WinForms)
 #### https://github.com/nrashchynski/PCGLab4
+# Lab 5 (Python Tkinter)
+#### https://github.com/nrashchynski/PCGLab5
