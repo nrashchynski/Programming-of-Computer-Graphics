@@ -10,3 +10,5 @@
 #### https://github.com/nrashchynski/PCGLab4
 # Lab 5 (Python Tkinter)
 #### https://github.com/nrashchynski/PCGLab5
+# Lab 6 (Python Tkinter)
+#### https://github.com/nrashchynski/PCGLab6
